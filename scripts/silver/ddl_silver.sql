@@ -1,7 +1,7 @@
-
- --This script creates tables in the 'silver' schema, dropping existing tables 
-   -- if they already exist.
-
+/*Script : Create Silver table 
+This script creates tables in the 'silver' schema, dropping existing tables 
+ if they already exist.
+*/
 
 
 
