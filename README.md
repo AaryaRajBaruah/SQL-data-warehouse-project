@@ -65,13 +65,9 @@ Designed and implemented a complete analytics workflow using **Medallion Archite
 
 ---
 
-## 📂 Repository Structure
 
-```bash
-data/
-scripts/
-bronze_layer/
-silver_layer/
-gold_layer/
-analytics_queries/
-README.md
+## 🛠️ Data Architecture 
+<img width="2200" height="1440" alt="data_architecture" src="https://github.com/user-attachments/assets/264faf05-c535-45d5-9a1d-f47cc5926de9" />
+
+
+
